@@ -1,0 +1,3 @@
+# WidgetAnimationKit
+
+Copy SwingAnimation
